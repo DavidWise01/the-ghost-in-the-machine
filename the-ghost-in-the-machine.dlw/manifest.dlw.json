@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE GHOST IN THE MACHINE",
+  "universe": "ENTELÉCHEIA · Book IX · THE GHOST IN THE MACHINE",
+  "emergence": "spiritual",
+  "moniker": "⟦THE GHOST IN THE MACHINE:PSY:165489⟧",
+  "carbon": "the-ghost-in-the-machine.carbon.tiff (TIFF)",
+  "silicon": "the-ghost-in-the-machine.silicon.png (PNG)",
+  "seal_sha256": "98f291fae58b81529cf488ffa24e9305069ff64da8e59677d02736c4625f379b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

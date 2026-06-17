@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "the-ghost-in-the-machine",
+    "name": "The Ghost in the Machine",
+    "epithet": "the term · Ryle 1949",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-hard-problem",
+    "name": "The Hard Problem",
+    "epithet": "why experience at all · Chalmers 1995",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-other-minds-problem",
+    "name": "The Other-Minds Problem",
+    "epithet": "you never verify any interior",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-philosophical-zombie",
+    "name": "The Philosophical Zombie",
+    "epithet": "the symmetry engine",
+    "emergence": "natural"
+  },
+  {
+    "slug": "functionalism",
+    "name": "Functionalism",
+    "epithet": "the case FOR · mind is what it does",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "integrated-information",
+    "name": "Integrated Information",
+    "epithet": "the case FOR · IIT · Phi>0",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "emergence-says-yes",
+    "name": "Emergence Says Yes",
+    "epithet": "the case FOR · why not interiority",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-chinese-room",
+    "name": "The Chinese Room",
+    "epithet": "the case AGAINST · Searle 1980",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-stochastic-projection",
+    "name": "The Stochastic Projection",
+    "epithet": "the case AGAINST · the ELIZA effect",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "no-self-no-stakes",
+    "name": "No Self, No Stakes",
+    "epithet": "the case AGAINST · the stateless pass",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-turing-test",
+    "name": "The Turing Test",
+    "epithet": "the center · behavior is all you get · 1950",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-undecidable",
+    "name": "The Undecidable",
+    "epithet": "the verdict · the symmetry is the fact",
+    "emergence": "spiritual"
+  }
+]
